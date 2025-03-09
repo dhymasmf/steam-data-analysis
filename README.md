@@ -24,7 +24,7 @@ The full analysis is available in [`steam_analysis.ipynb`](steam_analysis.ipynb)
 
 ---
 
-**Author:** [Dimas Maulidin Firdaus(https://github.com/dhymasmf)  
+**Author:** [Dimas Maulidin Firdaus](https://github.com/dhymasmf)  
 **Follow me on [LinkedIn](https://www.linkedin.com/in/dhymasmf/)**  
 
 ## Dataset Source  
