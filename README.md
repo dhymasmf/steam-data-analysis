@@ -1,4 +1,3 @@
-# steam-data-analysis
 # Steam Data Analysis
 
 This project analyzes Steam game data to uncover trends in pricing, genres, ratings, and player behavior using Python.
